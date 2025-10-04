@@ -3,8 +3,8 @@
 This repository contains notebooks and resources for my first machine learning classification project on predicting stress levels using sleep and lifestyle data.
 
 ## Notebooks
-- **EDA.ipynb:** Data exploration, visualization, and initial insights.
-- **Model.ipynb:** Model building, evaluation, and tuning.
+- **Sleep disorder diagnostics.ipynb:** Data exploration, visualization, and initial insights.
+- **Stress Level Classification Project.ipynb:** Model building, evaluation, and tuning.
 
 ## Purpose
 To learn end-to-end classification modeling, interpret results, and share progress.
