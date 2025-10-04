@@ -13,4 +13,4 @@ To learn end-to-end classification modeling, interpret results, and share progre
 Feel free to explore the notebooks, run the code, and adapt it for your own use.
 
 ## Contact
-[Your email or social links]
+sanketgaonkar27@gmail.com
